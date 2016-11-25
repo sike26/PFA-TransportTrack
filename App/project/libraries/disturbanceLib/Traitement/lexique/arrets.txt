@@ -1,0 +1,113 @@
+AAAA
+LAURIERS
+LA GARDETTE|Gardette
+BASSENS
+CARBON-BLANC|Carbon-Blanc,Carbon,Blanc
+PALMER
+BUTTINIERE|Buttini\xe8re,buttiniere
+IRIS
+GRAVIERES
+BOIS FLEURI|fleuri
+CARRIET|carriet
+MAIRIE DE LORMONT|lormont
+NEW YORK|new,York
+BRANDENBURG|branbenburg
+CLAVEAU|claveau
+BERGES DE LA GARONNE|Berges,Garonne,B. Garonne,Garonne
+PALAIS DES CONGRES
+PARC DES EXPOSITIONS|Parc,Expos,Expositions,Expo,Exposition
+BERGES DU LAC|berge,du lac
+QUARANTE JOURNAUX|journaux,Quarante,Journaux
+LES AUBIERS|aubiers
+EMILE COUNORD|Emile,Counord
+GRAND PARC|Grand Parc,Grand-Parc,grd Parc,gd parc,Parc,Grand
+LA MORLETTE|Morlette,Cenon-Morlette
+JEAN ZAY|Zay
+LA MAREGUE|maregue
+FLOIRAC DRAVEMONT|Floirac,Dravemont
+PELLETAN
+JEAN JAURES|Jaures
+CENON GARE|cenon gare
+CARNOT-MAIRIE DE CENON|carnot,cenon
+CARLE VERNET|Carle,Vernet,C.Vernet
+BELCIER
+JARDIN BOTANIQUE|jardin Botanique,botanique
+THIERS-BENAUGE
+LES HANGARS
+BASSINS A FLOT|Bassins a Flot,B. a Flot,Bassins-Flot,B. Flot,Bassins \xe0 Flot,B. \xe0 Flot,Flot
+RUE ACHARD
+GALIN
+CALAIS CENTUJEAN|centujean,calais
+STADE MUSARD|musard
+LA BELLE ROSE|belle,rose
+TERRES NEUVES|Terres Neuves,T-NEUVES,Terres,Neuves
+PARC DE MUSSONVILLE
+GARE DE BEGLES|begles
+PORTE DE BOURGOGNE|Bourgogne,Pte de Bourgogne,Porte de Bourgogne
+SAINT-MICHEL|Michel,Michel,Saint-Michel,St-Michel,Michel
+SAINTE-CROIX|Croix
+STALINGRAD
+TAUZIA
+GARE SAINT-JEAN|Jean,Saint-Jean,
+SAINT-NICOLAS|Nicolas
+LYCEE VACLAV HAVEL|Lycee V.Havel,Lycee Vaclav Havel,Lycee V. Havel,L. Vaclav Havel,L. V. Havel,Vaclav
+GRAND THEATRE|Grand Theatre,Gd Theatre,G. Theatre,Grand Th\xe9\xe2tre
+QUINCONCES
+JARDIN PUBLIC|jardin public,public
+CAPC MUSEE D'ART CONTEMPORAIN|CAPC,contemporain
+PLACE PAUL DOUMER|Paul,Doumer
+CHARTRONS
+CAMILLE GODARD|godar
+COURS DU MEDOC|medoc
+HOTEL DE VILLE
+MUSEE D'AQUITAINE|aquitaine
+VICTOIRE
+SAINTE-CATHERINE|Ste-Catherine,Sainte Catherine,Sainte-Catherine,Catherine
+PLACE DE LA BOURSE|P. de la Bourse,bourse
+PLACE DU PALAIS|Palais
+MERIADECK|Meriadeck,meriadeck
+PALAIS DE JUSTICE|Justice
+GAMBETTA
+CRACOVIE
+PLACE RAVEZIES|Ravezies
+LE BOUSCAT
+PEIXOTTO
+FORUM
+ROUSTAING
+BARRIERE SAINT-GENES|Genes,barriere
+BERGONIE
+GAVINIES|Gavinies,Gavini\xe8s
+ST BRUNO|Bruno
+HOTEL DE REGION|Region
+HOTEL DE POLICE|H. de Police,Hotel de Police
+SAINT-AUGUSTIN|Augustin
+HOPITAL PELLEGRIN|Hôpital Pellegrin,Hopital Pellegrin,H. Pellegrin,CHR Pellegrin
+STADE CHABAN DELMAS|Stade Chaban-Delmas,Stade Chaban Delmas,le stade
+FRANCOIS BORDES|Bordes
+ARTS & METIERS
+BETHANIE
+MONTAIGNE-MONTESQUIEU|Montaigne,Montesgieu
+DOYEN BRUS|Doyen Brus,Doyen,Brus
+PEYCHOTTE
+FRANCOIS MITTERRAND|mitterrand
+PESSAC CENTRE|Pessac centre,Pessac
+ALFRED DE VIGNY|vigny,alfred
+PIERRE MENDES FRANCE|Mendes,Pierre Mendes
+FONTAINE D'ARLAC|Fontaine d'Arlac,F.Arlac
+SAIGE
+BOUGNARD|Bougnard,Pessac Bougnard
+UNITEC
+CAMPONAC MEDIATHEQUE|mediatheque,camponac
+FRERES ROBINSON|robinson,freres
+HOTEL DE VILLE MERIGNAC
+PIN GALANT
+FRANCE ALOUETTE|France
+QUATRE CHEMINS|Quatre,Chemins,4-Chemins,4chemins
+LYCEES DE MERIGNAC
+MERIGNAC CENTRE|Merignac centre,Merignac Centre,Merignac
+HOPITAL HAUT LEVEQUE|leveque
+CAP METIERS
+CHATAIGNERAIE
+GARE DE PESSAC ALOUETTE|Alouette,Pessac,Passac Alouette
+LE HAILLAN ROSTAND|Haillan,Haillan-Rostand,Rostand
+LES PINS
